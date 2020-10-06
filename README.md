@@ -1,5 +1,5 @@
 # Mini-Projects
-Mini fun projects in java
+Mini fun projects in java by prashant
 
 The repository contains mini games and one other small project.They are as follows:
 
