@@ -20,10 +20,10 @@ import javafx.util.Duration;
 
 public class SnakeGame extends Application {
 
-    private static final int WIDTH = 900;
+    private static final int WIDTH = 1000;
     private static final int HEIGHT = 600;
-    private static final int HEAD_WIDTH = 30;
-    private static final int HEAD_HEIGHT = 30;
+    private static final int HEAD_WIDTH = 31;
+    private static final int HEAD_HEIGHT = 31;
 
     private int move = Direction.RIGHT.ordinal();
     private static int speed = 30;
